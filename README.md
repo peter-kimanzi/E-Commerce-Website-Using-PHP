@@ -27,7 +27,7 @@ hover your mouse over "My Account" in the header navigation then right under it 
 import the database that you'll find in "e_commerce.sql"
 
 ### Copy files
-copy the files to your www folder
+copy the files to your www(if using wamp) htdocs(if using xammp)  folder
 
 ### edit db_config.php
 edit the database credentials in db_config.php in the config folder  
