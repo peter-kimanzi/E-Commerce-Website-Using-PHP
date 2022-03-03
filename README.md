@@ -30,7 +30,9 @@ import the database that you'll find in "e_commerce.sql"
 copy the files to your www(if using wamp) htdocs(if using xammp)  folder
 
 ### edit db_config.php
-edit the database credentials in db_config.php in the config folder  
+edit the database credentials in db_config.php in the config folder
+#warning!!
+it wont work untill you edit db_config.php
 
 thats it now its ready.
 
