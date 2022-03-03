@@ -24,7 +24,7 @@ hover your mouse over "My Account" in the header navigation then right under it 
 ## Quick Start
 
 ### import database
-import the database that you'll find in "_database/e_commerce.sql"
+import the database that you'll find in "e_commerce.sql"
 
 ### Copy files
 copy the files to your www folder
