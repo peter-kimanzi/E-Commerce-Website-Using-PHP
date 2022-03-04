@@ -6,7 +6,7 @@ sadly it is not mobile-friendly
 
 ## Live Demo
 
-You can check the [live demo here](https://peter-kimanzi.github.io/E-Commerce-Website-Using-PHP/)  
+
 if you want to check the admin panel login with this:  
 *user: admin*  
 *password: admin*  
